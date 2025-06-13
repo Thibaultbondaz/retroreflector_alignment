@@ -4,7 +4,7 @@ retroreflector_alignment.py
 Interactive helper for aligning a three‑mirror cube‑corner retroreflector.
 Written with a considerable amount generative AI, so apologies for the "bot-like" coding.
 
-I did test the code myself and reached a deviation of < 3.5 arc-minutes by just eyeballing the correction angles. I imagine a much greater precision can be achieved by employing better tools/finner threaded screws. 
+I did test the code myself and reached a deviation of < 3.5 arc-minutes by just eyeballing the correction angles. I imagine a much greater precision can be achieved by employing better tools/finer threaded screws. 
 ---------------------------------------------
 Dependencies: only *numpy* (pip install numpy).
 """
